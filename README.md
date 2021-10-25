@@ -3,7 +3,7 @@
 
 
 
-👋 Hi there! I’m Andrew, a former Excel master turned Full-Stack Software Engineer and recent Hack Reactor Graduate 
+👋 Hi there! I’m Andrew, a former Excel whiz turned Full-Stack Software Engineer and recent Hack Reactor Graduate 
 
 Let's connect! E-mail me at: andrewhang@gmail.com
 
