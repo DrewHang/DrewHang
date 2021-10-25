@@ -3,10 +3,17 @@
 
 
 
-👋 Hi there! I’m Andrew, a former Excel whiz turned Full-Stack Software Engineer and recent Hack Reactor Graduate 
+# Hi there! I’m Andrew 👋 ! 
 
-Let's connect! E-mail me at: andrewhang@gmail.com
+A former Excel whiz turned Full-Stack Software Engineer and recent Hack Reactor Graduate looking to fuel my passion and curiosity of the tech industry by developing full stack applications to simplify the life of others.
 
+When I'm not coding, I enjoy - playing video games 🎮, jamming out on the guitar 🎸, and spending time with my dog 🐶
+
+Let's connect! 📧
+
+E-mail me at: andrewhang@gmail.com
+
+# Find me elsewhere 🌎
 <a href="https://www.linkedin.com/in/andrew-hang">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
