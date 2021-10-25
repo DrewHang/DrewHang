@@ -13,7 +13,7 @@ Let's connect! 📧
 
 E-mail me at: andrewhang@gmail.com
 
-# Find me elsewhere 🌎
+## Find me elsewhere 🌎
 <a href="https://www.linkedin.com/in/andrew-hang">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
