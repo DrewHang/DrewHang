@@ -9,11 +9,10 @@ A former Excel whiz turned Full-Stack Software Engineer and recent Hack Reactor 
 
 When I'm not coding, I enjoy - playing video games 🎮, jamming out on the guitar 🎸, and spending time with my dog 🐶
 
-Let's connect! 📧
+## Let's connect! 📧 🌎
 
-E-mail me at: andrewhang@gmail.com
+<b>E-mail me at:</b> andrewhang@gmail.com
 
-## Find me elsewhere 🌎
 <a href="https://www.linkedin.com/in/andrew-hang">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
