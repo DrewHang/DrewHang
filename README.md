@@ -3,7 +3,7 @@
 
 
 
-# Hi there! I’m Andrew 👋 ! 
+# Hi there I’m Andrew 👋 ! 
 
 A former Excel whiz turned Full-Stack Software Engineer and recent Hack Reactor Graduate looking to fuel my passion and curiosity of the tech industry by developing full stack applications to simplify the life of others.
 
