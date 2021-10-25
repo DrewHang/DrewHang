@@ -5,7 +5,7 @@
 
 # Hi there I’m Andrew 👋 ! 
 
-A former Excel whiz turned Full-Stack Software Engineer and recent Hack Reactor Graduate looking to fuel my passion and curiosity of the tech industry by developing full stack applications to simplify the life of others.
+A former Excel whiz turned Full-Stack Software Engineer and recent Hack Reactor Graduate looking to fuel my passion and curiosity for the tech industry through developing full stack applications to simplify the life of others.
 
 When I'm not coding, I enjoy - playing video games 🎮, jamming out on the guitar 🎸, and spending time with my dog 🐶
 
