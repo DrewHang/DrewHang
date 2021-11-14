@@ -11,7 +11,7 @@ When I'm not coding, I enjoy - playing video games 🎮, jamming out on the guit
 
 ## Let's connect! 📧 🌎
 
-<b>E-mail me at:</b> andrewhang@gmail.com
+<b>E-mail me at:</b> andrewhang94@gmail.com
 
 <a href="https://www.linkedin.com/in/andrew-hang">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
